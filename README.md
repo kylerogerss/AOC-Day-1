@@ -1,2 +1,3 @@
 # AOC
-repo for AOC hopefully to finish 
+day 1 Advent of Code challenge
+
